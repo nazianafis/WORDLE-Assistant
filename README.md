@@ -10,9 +10,11 @@ It gives players six chances to guess a randomly selected five-letter word. As s
 
 ---
 
-If you've got only a couple of attempts in the game left and a bunch of yellow/green (inclusion) and grey (exclusions) letters, you can make use of [this](https://huggingface.co/spaces/nn007/WORDLE-Assistant) simple application to have a look at all words that are possible with the combination of your inclusion and exclusion letters.
+## The App
+🔗Check out the WORDLE-Assistant app [here](https://huggingface.co/spaces/nn007/WORDLE-Assistant).
 
-#### 🔗Check out the running app [here](https://huggingface.co/spaces/nn007/WORDLE-Assistant).
+#### What is does?
+If you've got only a couple of attempts in the game left and a bunch of yellow/green (inclusion) and grey (exclusions) letters, you can make use of [this](https://huggingface.co/spaces/nn007/WORDLE-Assistant) application to have a look at all words that are possible with the combination of your inclusion and exclusion letters.
 
 <br>
 
